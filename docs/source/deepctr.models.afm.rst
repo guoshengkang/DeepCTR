@@ -1,4 +1,4 @@
-deepctr.models.afm module
+deepctr.models.afm module   
 =========================
 
 .. automodule:: deepctr.models.afm
